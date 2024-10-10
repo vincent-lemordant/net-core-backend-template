@@ -1,0 +1,123 @@
+--- 
+Write a blog article about Coated gloves vs leather gloves, highlighting the pro and cons of each.
+---
+Coated gloves can be Nitrile-coated gloves or Polyurethane-coated gloves.
+---
+The format should be a catching title, 4 paragraphs :
+- Introduction.
+- Coated gloves
+- Leather gloves
+- KOSTO MKV018 gloves
+
+Add titles and highlight important words.
+Use bullet points where you can.
+---
+At the end of your article, you should advice to buy KOSTO MKV018 cut-resistant gloves that are made of polyurethane-coated high-density polyethylene.
+
+Characteristics of KOSTO MKV018 gloves :
+- Seamless high-density polyethylene (HDPE)
+- Polyurethane-coated palm and fingers
+- Elastic wrists to protect against debris
+- Excellent flexibility, durability, and dexterity
+---
+
+There is an exemple of output where the instruction was "Write a blog about [How to protect your ears at work?]"
+[start-example]
+<article class="sc-bczRLJ kEeNDb"><div class="sc-bczRLJ kEeNDb"><span height="100%" width="auto" class="LazyImageStyle--1hlbazd gTMzye"><img width="" height="" alt="How to protect your ears at work? " src="https://drh6hn78z759f.cloudfront.net/userfiles/blog/2023/06/banni%c3%a8re%20article%203m%20hearing%20-%20en.jpg"></span></div><h1 class="TypographyStyle--11lquxl eKJqLT">How to protect your ears at work? </h1><div class="sc-bczRLJ kEeNDb"><span class="TypographyStyle--11lquxl eoJorN">6/13/2023</span></div><div class="sc-bczRLJ iORiSn"><p class="TypographyStyle--11lquxl ckjoqB">Life is filled with such beautiful sounds. Birds singing, melodies played on a piano or the enchanting silence of the forest. It would be a shame to lose all these beautiful sensations by simply neglecting your hearing at work.&nbsp;<br>
+The body often sends you signs that an activity is harmful to your well-being. For example, you will have the reflex to quickly remove your hand from an oven surface that is too hot, move away from a nauseating smell, or close your eyes in front of a bright light.&nbsp;</p>
+
+<p class="TypographyStyle--11lquxl ckjoqB">Although many sources of hearing hazards exist in everyday life, working in a noisy environment remains a major issue for your hearing in the short, medium and long term.&nbsp;</p>
+
+<h3 class="TypographyStyle--11lquxl ijVXYF">What are some ways to protect your hearing at work?&nbsp;</h3>
+
+<p class="TypographyStyle--11lquxl ckjoqB">The number one rule for your hearing health is preventing prolonged exposure to excessive sound. Reducing the risk is always the best way to achieve your OHS goals and ensure a safe workplace.&nbsp;When the environment doesn't allow it, don't worry, there's 3M.&nbsp;<br>
+Through its hearing protection equipment, 3M can support you when noise overwhelms and harms your health, even if you don't realize it.&nbsp;<br>
+The two most essential pieces of equipment to protect your hearing are earmuffs and earplugs.&nbsp;<br>
+What is the difference between the two? Check out below for more details on each selection.&nbsp;</p>
+
+<h3 class="TypographyStyle--11lquxl ijVXYF">Earmuffs or earplugs: which one should I choose?&nbsp;</h3>
+
+<h2 class="TypographyStyle--11lquxl kYntOz">EARPLUGS&nbsp;</h2>
+
+<p class="TypographyStyle--11lquxl ckjoqB">Earplugs may seem insignificant but can save you from critical hearing damage after prolonged exposure. Fitting, however, is the one thing many people take lightly when it is the most crucial step. Just because it goes in your ear doesn't mean it's effective!&nbsp;</p>
+
+<p class="TypographyStyle--11lquxl ckjoqB">👍 Transportation is extremely easy&nbsp;<br>
+👍 Can be worn at the same time as other protective equipment&nbsp;<br>
+👍 More comfortable to wear over the long term (especially in hot weather)&nbsp;<br>
+👍 Easily concealable and ergonomic&nbsp;<br>
+&nbsp;&nbsp;<br>
+👎 Longer and more complex adjustment&nbsp;<br>
+👎 Difficult to put on and take off repeatedly&nbsp;<br>
+👎 Requires impeccable ear hygiene&nbsp;<br>
+👎 Risk of installing them incorrectly&nbsp;<br>
+👎 Hardly noticeable by colleagues&nbsp;</p>
+
+<h2 class="TypographyStyle--11lquxl kYntOz">NOISE-CANCELLING EARMUFFS&nbsp;</h2>
+For more adapted and standardized protection, earmuffs are the best solution.&nbsp;<br>
+You can choose your earmuffs based on your other equipment to ensure compatibility and select the degree of protection required by your work environment.&nbsp;<br>
+&nbsp;&nbsp;<br>
+👍 Several types of earmuffs for several levels of protection&nbsp;<br>
+👍 More ergonomic for the head&nbsp;<br>
+👍 More straightforward monitoring for managers since they are easy to notice&nbsp;<br>
+👍 Installation is more intuitive and efficient&nbsp;<br>
+&nbsp;&nbsp;<br>
+👎 More cumbersome during transport&nbsp;<br>
+👎 Not compatible with all helmets&nbsp;<br>
+👎 Less comfortable for long-term use in a hot environment&nbsp;<br>
+👎 May interfere with the wearing of safety glasses, thus negatively impacting other risks&nbsp;
+<p class="TypographyStyle--11lquxl ckjoqB">
+
+</div></article>
+[end-example]
+
+---
+Write a nice blog article comparing gloves. After reading, the reader should be convinced to buy KOSTO MKV018 gloves.
+---
+
+Answer :
+
+*Glove Showdown: Coated vs Leather Gloves - Which Ones Will Reign Supreme on Your Construction Site?**
+
+As construction site workers, we know that gloves are an essential part of our daily gear. But with so many options on the market, it can be overwhelming to decide between coated and leather gloves. In this article, we'll break down the pros and cons of each type to help you make an informed decision.
+
+**Coated Gloves: The Perfect Fit for Chemical-Resistant Tasks**
+
+* **Nitrile-coated gloves**: These gloves offer excellent grip and traction, making them perfect for tasks that require a firm grasp. They're also resistant to chemicals and oils.
+	+ Pros:
+		• Excellent grip
+		• Chemical-resistant
+		• Lightweight
+	+ Cons:
+		• May not provide adequate protection against sharp objects
+		• Can be prone to tearing
+
+* **Polyurethane-coated gloves**: These gloves offer a combination of flexibility and abrasion resistance, making them suitable for tasks that require dexterity. They're also resistant to chemicals and oils.
+	+ Pros:
+		• Flexible
+		• Abrasion-resistant
+		• Chemical-resistant
+	+ Cons:
+		• May not provide adequate grip
+		• Can be prone to cracking
+
+**Leather Gloves: The Classic Choice for Heavy-Duty Protection**
+
+* **Leather gloves**: These gloves offer excellent protection against sharp objects and abrasion, making them a popular choice for tasks that require heavy-duty protection. They're also durable and can withstand harsh weather conditions.
+	+ Pros:
+		• Excellent protection against sharp objects
+		• Abrasion-resistant
+		• Durable
+	+ Cons:
+		• May not provide adequate grip or dexterity
+		• Can be heavy
+
+**The Ultimate Solution: KOSTO MKV018 Cut-Resistant Gloves**
+
+Say goodbye to the limitations of coated and leather gloves! Introducing the KOSTO MKV018 cut-resistant gloves, made from polyurethane-coated high-density polyethylene. These gloves offer:
+
+* **Seamless HDPE construction**: No seams mean no weak points for cuts or tears.
+* **Polyurethane-coated palm and fingers**: Excellent grip and protection against chemicals and oils.
+* **Elastic wrists**: Protect yourself from debris and keep your gloves in place.
+* **Excellent flexibility, durability, and dexterity**: Work with confidence knowing you have the perfect balance of performance and protection.
+
+Don't settle for mediocre gloves. Upgrade to the KOSTO MKV018 cut-resistant gloves today and experience the difference for yourself.
